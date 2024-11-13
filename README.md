@@ -29,10 +29,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/120431957?s=200&v=4" alt="langchain" width="40" height="40"/>
+    <img src="https://uploads-ssl.webflow.com/65ff950538088944d66126b3/662ef3209b872e92e41212f6_cookieicon.png" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://crew.ai/" target="_blank" rel="noreferrer">
-    <img src="https://uploads-ssl.webflow.com/62dece6169a706fdd7a99497/62df01d6e07b1a258e88b7a9_crew_ai_logo.svg" alt="crew ai" width="40" height="40"/>
+    <img src="**https://uploads-ssl.webflow.com/62dece6169a706fdd7a99497/62df01d6e07b1a258e88b7a9_crew_ai_logo.svg**" alt="crew ai" width="40" height="40"/>
   </a>
   <a href="https://www.sap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
