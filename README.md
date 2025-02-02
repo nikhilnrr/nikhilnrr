@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilnrr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilnrr" /> </p>
 
-- 🌱 I’m currently learning and implementing **Generative AI**
+- 🌱 I’m currently learning and implementing **Generative AI** solutions.
 
 - 👨‍💻 All of my projects are available at [nikhilrajrauniyar.com.np](https://nikhilrajrauniyar.com.np)
 
